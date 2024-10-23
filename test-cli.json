@@ -6,7 +6,7 @@
     "architecture": {
       "64bit": {
         "url": "https://github.com/samthemogul/HatchDevAssigmentSubmissions/releases/download/v1.0.0/test-cli.zip",
-        "hash": "20FF551864864CB3F36E8A3B6F9C8387DFE797B967C6133752184F10B61D93EC"
+        "hash": "96378E2D5C36C93AAEF055E6BC675751663970B37DB10E22346F352587E728D9"
       }
     },
     "bin": "bin/index.js",
